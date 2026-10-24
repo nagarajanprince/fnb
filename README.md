@@ -53,3 +53,4 @@ http://localhost:8000
 ## Notes
 
 This project is designed as a showcase/static marketing website and does not require a backend or database setup.
+
